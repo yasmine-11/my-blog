@@ -1,3 +1,3 @@
-Simple personal blog site to share my coding journey. <br/>
+Simple personal site and blog to share my coding journey and projects. <br/>
 Built using Django & Python. <br/>
 Django~=5.1.2
