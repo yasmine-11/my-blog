@@ -1,3 +1,3 @@
-Simple personal site and blog to share my coding journey and projects. <br/>
-Built using Django & Python. <br/>
-Django~=5.1.2
+## My Portfolio/Blog
+Simple personal site and blog to share my projects and coding journey. <br/>
+Built using Django & Python.
